@@ -1,4 +1,4 @@
-# Hi! Im Daniel Danielsson 👋
+# Hi there, Im Daniel! 👋
 
 ### I created the Lorema app for macOS.
 ### I'm currently working on my personal website and a twitter bot.
