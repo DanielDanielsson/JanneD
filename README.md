@@ -1,9 +1,9 @@
 # Hi there, Im Daniel! 👋
 
 ### I created the Lorema app for macOS.
-### I'm currently working on my personal website and a twitter automation repo.
+### I'm currently working on my personal website.
 ### I'm a type one diabetic 💙
-### Reach me on [Twitter](https://twitter.com/T1DanielD).
+### Follow me on [Twitter](https://twitter.com/T1DanielD).
 
 
 
